@@ -5,3 +5,5 @@
 4.钩子 https://www.jianshu.com/p/e22b9fef311c
 
 5.@DependsOn https://blog.csdn.net/neweastsun/article/details/78775371
+
+6.spring 钩子封装
